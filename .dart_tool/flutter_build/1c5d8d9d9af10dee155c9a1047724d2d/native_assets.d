@@ -1,0 +1,1 @@
+ D:\\taskoopia\\.dart_tool\\flutter_build\\1c5d8d9d9af10dee155c9a1047724d2d\\native_assets.yaml: 
